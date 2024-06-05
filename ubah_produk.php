@@ -47,6 +47,7 @@ $data = mysqli_fetch_array($query);
             <td>
                 <button type="submit" class="btn btn-primary">Simpan</button>
                 <button type="reset" class="btn btn-danger">Reset</button>
+                <button type="" class="btn btn-danger">satu</button>
             </td>
         </tr>
     </table>
